@@ -1,0 +1,6 @@
+{
+    "name": "token name",
+    "symbol": "token symbol",
+    "description": "This is utility Token",
+    "image": "uri for metadata"
+  }
